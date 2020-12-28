@@ -52,8 +52,3 @@ SOME OF PREVIEW SCREENSHOTS
 
 
 ![](prev12.png)
-
-
-
-
-![](prev13.png)
